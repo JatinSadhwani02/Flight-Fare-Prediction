@@ -5,12 +5,6 @@ Flask-Cors==3.0.7
 Flask-MySQLdb==0.2.0
 Flask-SQLAlchemy==2.4.4
 freeze==1.0.10
-jupyter==1.0.0
-jupyter-client==5.2.4
-jupyter-console==6.0.0
-jupyter-core==4.4.0
-jupyterlab==0.35.3
-jupyterlab-server==0.2.0
 numexpr==2.6.8
 numpy==1.15.4
 numpydoc==0.8.00
